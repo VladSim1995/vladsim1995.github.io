@@ -1,0 +1,52 @@
+#block-pass-login{
+    width: 285px;
+    height: auto;
+    border: 1px solid grey;
+    background-color: #F2F2F2;
+    margin: 160px auto;
+}
+#pass-login li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+#pass-login label{
+    font: 20px Monotype Corsiva;
+    position: absolute;
+    margin-top: 4px;
+    margin-left: 10px;
+    
+}
+
+#pass-login input{
+    width: 200px;
+    height: 24px;
+    margin-left: 75px;
+    border: 1px solid grey;
+    font: 17px sans-serif;
+    
+}
+#submit_enter{
+    border: 1px solid grey;
+    background-color: #EAEAEA;
+    margin-right: 10px;
+    padding: 4px 6px;
+    font: bold 20px Monotype Corsiva;
+    cursor: pointer;
+    margin-bottom:10px;
+}
+#submit_enter:hover{
+    border: 1px solid #B4B4B4;
+
+}
+#msgerror{
+    font: 18px Monotype Corsiva;
+    color: red;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #FDE5E0;
+    border: 1px solid #FDCDC3;
+    margin-top: 0px;
+    
+}
